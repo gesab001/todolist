@@ -1,0 +1,11 @@
+.itemList {
+   list-style-type: none;	
+}
+
+.complete {
+	color: red;
+}
+
+.incomplete {
+     color: green;	
+}
